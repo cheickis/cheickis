@@ -50,7 +50,7 @@ Recently deployed **FAST-LIO2 in a live mining drift (Sudbury, ON)** — overcom
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/cheickismaelmaiga/)  
-- [Twitter](https://twitter.com/cheickis) (if active)  
+- [Twitter](https://twitter.com/cheickis) 
 - ✉️ Reach me via GitHub or LinkedIn messages  
 
 ---
